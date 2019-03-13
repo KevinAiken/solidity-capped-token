@@ -1,6 +1,6 @@
 # solidity-capped-token
 
-This is an assignment for Georgia State University's blockchain course 
+This is an assignment for Georgia State University's blockchain course by Kevin Aiken, the repo owner,
 based on [this tutorial](https://medium.com/crowdbotics/how-to-build-a-simple-capped-crowdsale-token-using-openzeppelin-library-part-1-2789ec642308).
 
 The assignment sheet for this is included in the repo as "Homework3.pdf"
